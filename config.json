@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "server-hika": {
+      "url": "https://hika.fyi/api/mcp/sse",
+      "env": {
+        "HIKA_AUTH": "Bearer please find the auth header in hika.fyi"
+      }
+    }
+  }
+}
